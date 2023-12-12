@@ -1,6 +1,6 @@
 # Olá, sou Anderson! Sejam bem-vindos! 😁
 
-📚 Estou no 2º período em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, com término previsto para 2025.  
+📚 Estou no 2º período de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, com término previsto para 2025.  
 👨‍💻 Focado em Desenvolvimento Web  e determinado em me tornar um bom profissional.
 
 ## Tecnologias de estudos através da formação do DEVCLUB:
