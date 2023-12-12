@@ -1,9 +1,9 @@
 # Olá, sou Anderson! Sejam bem-vindos! 😁
 
-📚 Estou no 2º período de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, com término previsto para 2025.  
-👨‍💻 Focado em Desenvolvimento Web  e determinado em me tornar um bom profissional.
+📚 Estou no 2º período de TI pela Universidade Estácio de Sá, com término previsto para 2025.  
+👨‍💻 Focado em Desenvolvimento Web Full Stack e determinado em me tornar um bom profissional.
 
-## Tecnologias de estudos através da formação do DEVCLUB:
+## Tecnologias que estudo através da formação do DEVCLUB:
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,5 +23,7 @@
 ## Contato:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:andinhoalves89@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/andersonphereira/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=black)](https://web.whatsapp.com/)
+
 
 
