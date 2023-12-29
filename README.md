@@ -3,7 +3,7 @@
 📚 Estou no 2º período de TI pela Universidade Estácio de Sá, conclusão previsto para 2025.  
 👨‍💻 Focado em Desenvolvimento Web Full Stack e determinado em me tornar um bom profissional.
 
-# Tecnologias que estudo através da formação do DEVCLUB:
+# Tecnologias abordadas através da formação do DEVCLUB:
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
