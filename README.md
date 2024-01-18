@@ -1,7 +1,7 @@
 # Olá, sou Anderson! Sejam bem-vindos! 😁
 
 📚 Estou no 2º período de TI pela Universidade Estácio de Sá, conclusão previsto para 2025.  
-👨‍💻 Focado em Desenvolvimento Web Full Stack e determinado em me tornar um bom profissional.
+
 
 # Estudando pelo DEVCLUB:
 
